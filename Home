@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <title>Homepage</title>
+      <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+      <h1 class="title">My Website</h1>
+      <img src="https://github.com/Zaygarc99/index.html/blob/main/image%20101.png" alt="UNC Logo">
+      <table>
+        <tr>
+          <th>Title</th>
+          <th>Description</th>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/Zaygarc99/index.html/blob/main/profile.html">My Profile</a></td>
+          <td>More info about myself and my interests</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/Zaygarc99/index.html/blob/main/inspire.html">My Hero</a></td>
+          <td>Who my hero is and why</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/Zaygarc99/index.html/blob/main/amuse.html">My Amusement</a></td>
+          <td>Page dedicated to funny stuff I've found on the internet</td>
+        </tr>
+      </table>
+    </body>
+</html>
